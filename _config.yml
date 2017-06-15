@@ -20,12 +20,9 @@ title: Devlog
 description: Tracking progress on refactoring code from spark-root to root4j
 
 gh_name: reikdas
-gh_project 1: https://github.com/diana-hep/root4j/tree/pratyush-refac
-gh_commits 1: https://github.com/diana-hep/root4j/commits/pratyush-refac/?author=reikdas
-gh_project 2: https://github.com/diana-hep/spark-root/tree/pratyush-refactor
-gh_commits 2: https://github.com/diana-hep/spark-root/commits/pratyush-refactor/?author=reikdas
-gh_project 3: https://github.com/reikdas/groot
-gh_commits 3: https://github.com/reikdas/groot/commits/master/?author=reikdas
+gh_project: https://github.com/diana-hep/root4j/tree/pratyush-refac
+gh_commits: https://github.com/diana-hep/root4j/commits/pratyush-refac/?author=reikdas
+
 
 # -------------------------------------
 # Build Settings
