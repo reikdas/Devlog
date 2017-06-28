@@ -7,8 +7,6 @@ category: daily progress
 
 > Started refactoring the classes declared in TypeSystem.scala into java.
 
-> Commited changes to pratyush-refac branch of root4j.
-
 
 
 
