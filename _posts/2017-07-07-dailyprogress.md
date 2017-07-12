@@ -1,5 +1,5 @@
 ---
-date: 2017-07-06
+date: 2017-07-07
 category: daily progress
 ---
 
