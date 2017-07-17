@@ -7,5 +7,5 @@ category: daily progress
 
 > Fixed the super class return type issue.
 
-> Replaced the regex match part in scala with searching the string className for aaa and bbb in java. 
+> Fixed the regex match issue while refactoring.
 
