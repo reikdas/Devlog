@@ -7,3 +7,5 @@ category: daily progress
 
 > Proper overriding of sub class from super class in refactored code of TypeSystem.scala being worked on.
 
+> Replaced the regex match part in scala with searching the string className for aaa and bbb in java. 
+
